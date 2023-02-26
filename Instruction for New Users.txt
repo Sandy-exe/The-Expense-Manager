@@ -1,0 +1,21 @@
+The Following Modules Must Be Installed Before
+Running The "The Expense Manager":-
+
+1)TKINTER
+2)PILLOW
+3)PANDAS
+4)MYSQL.CONNCECTOR
+5)MATPLOTLIB
+6)DATETIME
+7)Centertkwindow
+
+To Install the Above packages If Not present,
+The Following Commands must be used in Prompt:-
+
+1)pip install tk
+2)pip install pillow
+3)pip install pandas
+4)pip install mysql.connector
+5)pip install matplotlib
+6)pip install datetime
+7)pip install center_tk_window
