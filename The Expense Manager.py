@@ -10,6 +10,7 @@ from mysql.connector import Error
 from pandas import DataFrame
 from tkinter import messagebox
 import center_tk_window
+
 #=====================================================================================================================================================================================
 create=open("Password.txt","a+")
 create.close()
